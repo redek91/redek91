@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I am working on a time machine so that I dont have to work on a time machine
 - DDD, TDD, clean architecture, clean code 🤟
 
-I work with these frameworks/platforms: .NET, .NET MAUI, Angular, bootstrap, MySQL, SQLServer, Android, Unity3d, EF, Autofac, Webpack, MongoDB, Nativescript
+I work with these frameworks/platforms: .NET, .NET MAUI, Angular, bootstrap, MySQL, SQLServer, Android, Unity3d, EF, Autofac, Webpack, MongoDB, Nativescript, tensorflow, keras, scikit-learn
 
 I code with following languages: *C#*, Java, Javascript, Typescript, Python, C/C++, SQL, yaml, golang
 
