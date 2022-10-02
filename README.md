@@ -1,16 +1,17 @@
-### Hi there 👋
+![Hello there](https://media.tenor.com/p5q73vRBB5sAAAAC/obiwan-hellothere.gif)
 
-<!--
-**redek91/redek91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Manuel also known as Redek
 
-Here are some ideas to get you started:
+- 👨‍💼 I'm currently working for *ACS DATASYSTEMS* as a *full stack developer*
+- 🔭 I’m currently working on *.NET MAUI applications*, *nodejs* and *Unity3d games*
+- 🌱 I’m currently learning *kubernetes* , *docker*, *TDD*, *github actions*
+- 💬 Ask me about the weather
+- ⚡ Fun fact: I am working on a time machine so that I dont have to work on a time machine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with these frameworks/platforms: .NET, .NET MAUI, Angular, bootstrap, MySQL, SQLServer, Android, Unity3d, EF, Autofac, Webpack, MongoDB, Nativescript
+
+I code with following languages: *C#*, Java, Javascript, Typescript, Python, C/C++, SQL, yaml, golang
+
+
+## Github stats
+![Redek's github stats](https://github.com/redek91/redek91/blob/main/github-metrics.svg)
