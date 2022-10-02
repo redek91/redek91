@@ -8,6 +8,7 @@
 - 💬 Ask me about the weather
 - I speak italian, german and english
 - ⚡ Fun fact: I am working on a time machine so that I dont have to work on a time machine
+- DDD, TDD, clean architecture, clean code 🤟
 
 I work with these frameworks/platforms: .NET, .NET MAUI, Angular, bootstrap, MySQL, SQLServer, Android, Unity3d, EF, Autofac, Webpack, MongoDB, Nativescript
 
