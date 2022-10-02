@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on *.NET MAUI applications*, *nodejs* and *Unity3d games*
 - 🌱 I’m currently learning *kubernetes* , *docker*, *TDD*, *github actions*
 - 💬 Ask me about the weather
+- I speak italian, german and english
 - ⚡ Fun fact: I am working on a time machine so that I dont have to work on a time machine
 
 I work with these frameworks/platforms: .NET, .NET MAUI, Angular, bootstrap, MySQL, SQLServer, Android, Unity3d, EF, Autofac, Webpack, MongoDB, Nativescript
