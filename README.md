@@ -4,7 +4,7 @@
 
 - 👨‍💼 I'm currently working for *ACS DATASYSTEMS* as a *full stack developer*
 - 🔭 I’m currently working on *.NET MAUI applications*, *nodejs* and *Unity3d games*
-- 🌱 I’m currently learning *kubernetes* , *docker*, *TDD*, *github actions*
+- 🌱 I’m currently learning *Kubernetes* , *Docker*, *TDD*, *Rust*
 - 💬 Ask me about the weather
 - I speak italian, german and english
 - ⚡ Fun fact: I am working on a time machine so that I dont have to work on a time machine
