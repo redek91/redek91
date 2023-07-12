@@ -4,15 +4,17 @@
 
 - 👨‍💼 I'm currently working for *ACS DATASYSTEMS* as a *full stack developer*
 - 🔭 I’m currently working on *.NET MAUI applications*, *nodejs* and *Unity3d games*
-- 🌱 I’m currently learning *Kubernetes* , *Docker*, *TDD*, *Rust*
+- 🌱 I’m currently learning *Rust*, *Golang*
 - 💬 Ask me about the weather
 - I speak italian, german and english
 - ⚡ Fun fact: I am working on a time machine so that I dont have to work on a time machine
-- DDD, TDD, clean architecture, clean code 🤟
+- DDD, TDD, clean architecture, clean code+r 🤟
 
-I work with these frameworks/platforms: .NET, .NET MAUI, Angular, bootstrap, MySQL, SQLServer, Android, Unity3d, EF, Autofac, Webpack, MongoDB, Nativescript, tensorflow, keras, scikit-learn
+I work with these frameworks/platforms: .NET, .NET MAUI, Angular, bootstrap, MySQL, SQLServer, Android, Unity3d, EF, Autofac, Webpack, MongoDB, Nativescript, tensorflow, keras, scikit-learn, IdentityServer4, OpenIddict, electron, docker, kubernetes
 
-I code with following languages: *C#*, Java, Javascript, Typescript, Python, C/C++, SQL, yaml, golang
+I work with these devices: Arduino, Raspberry Pi, Nvidia Jetson Nano, ESP32/8226, M5Stack, Extron (EAP)
+
+I code with following languages: *C#*, Java, Javascript, Typescript, Python, C/C++, SQL, yaml, golang, rust
 
 
 ## Github stats
