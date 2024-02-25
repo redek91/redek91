@@ -2,7 +2,6 @@
 
 ### I'm Manuel also known as Redek
 
-- 👨‍💼 I'm currently working for *ACS DATASYSTEMS* as a *full stack developer*
 - 🔭 I’m currently working on *.NET MAUI applications*, *nodejs* and *Unity3d games*
 - 🌱 I’m currently learning *Rust*, *Golang*
 - 💬 Ask me about the weather
