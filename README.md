@@ -2,7 +2,7 @@
 <img src="https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif" height="244"/>
 
 
-### I'm Manuel also known as Redek
+### I'm red also known as redek
 
 - 🔭 I’m currently working on *native apps*
 - 🌱 I’m currently learning *SwiftUI*
